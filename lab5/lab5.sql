@@ -1,5 +1,6 @@
 create database lab5;
 
+
 create table objects (
 	geom_id int primary key not null,
 	name varchar(50) not null,
